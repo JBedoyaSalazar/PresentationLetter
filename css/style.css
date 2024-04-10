@@ -67,6 +67,7 @@ header{
 
 #hero .informacion-contenedor #foto img{
     border-radius: 100%;
+    object-fit: cover;
 }
 
 #hero .informacion-contenedor .informacion{
